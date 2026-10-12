@@ -50,9 +50,9 @@ Machine vibration -> sensor model -> on-device features (RMS, kurtosis, FFT band
 
 ## Screenshots
 
-![Live monitor](docs/live_monitor.png)
-![Confusion matrices](docs/confusion_matrices.png)
+![Live monitor](docs/live_monitor.jpeg)
+![Confusion matrices](docs/confusion_matrices.jpeg)
 
 ## Author
 
-[your name]
+[ANUP INDRAKANT JHA]
