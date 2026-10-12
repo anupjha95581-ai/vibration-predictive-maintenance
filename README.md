@@ -1,4 +1,4 @@
-# Vibration-based Predictive Maintenance (ECE + CS)
+# Vibration-based Predictive Maintenance .
 
 An end-to-end edge-monitoring prototype: a simulated ESP32 node computes vibration features on the device, publishes them over MQTT, and a Python service classifies machine health and raises alerts.
 
